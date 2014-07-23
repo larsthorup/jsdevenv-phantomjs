@@ -1,0 +1,15 @@
+{
+    "name": "jsdevenv-phantomjs",
+    "version": "0.1.1",
+    "description": "",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/larsthorup/jsdevenv-phantomjs.git"
+    },
+    "author": "Lars Thorup <lars@zealake.com>",
+    "license": "MIT",
+    "devDependencies": {
+        "grunt": "~0.4.5",
+        "phantomjs": "~1.9.7-15"
+    }
+}
